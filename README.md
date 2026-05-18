@@ -91,6 +91,3 @@
 
 ---
 
-
-*Built with ❤️ by @Kakoolnews*
-
