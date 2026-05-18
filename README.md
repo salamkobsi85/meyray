@@ -1,4 +1,4 @@
-# 🚀 Kakoolray
+# 🚀 Meyray
 
 > یک راه‌اندازی ساده برای اجرای Xray داخل GitHub Codespaces
 
@@ -63,6 +63,8 @@ Kakoolray یک ابزار خودکار برای راه‌اندازی سریع X
 - 63.141.252.203
 - 50.7.5.83
 - 94.130.50.12
+- 94.130.70.160
+- 144.76.1.88
 
 ⚠️ اگر کار نکرد، ممکن است نیاز به تغییر شبکه یا ریجن داشته باشید.
 
@@ -89,23 +91,6 @@ Kakoolray یک ابزار خودکار برای راه‌اندازی سریع X
 
 ---
 
-## 💖 حمایت مالی
-
-اگر این پروژه برای شما مفید بود، می‌توانید از آن حمایت کنید:
-
-USDT BEP20 & ETH:  
-0xa5E3E5BbB48501ceB51Bce7d1A9F1B9165dee619
-
-USDT TRC20 & TRX:  
-TQa6cLCuuzbQpDBeJnQG9qVVNep3bt9x3E
-
-Bitcoin (BTC):  
-bc1qlzty8tld7d2mjv88nxh2vkmjegdtmsj95y0qcm
-
-TON:  
-UQBfqDm-0zGW7HjGnetVR1D_fY89LxkBIcwEv2bzKUc_K82S
-
----
 
 *Built with ❤️ by @Kakoolnews*
 
