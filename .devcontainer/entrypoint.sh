@@ -41,6 +41,8 @@ echo "vless://${UUID}@144.76.1.88:443?encryption=none&security=tls&type=ws&sni=$
 echo ""
 echo "vless://${UUID}@85.10.207.48:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@MeyRay"
 echo ""
+echo "vless://${UUID}@94.130.13.19:443?encryption=none&security=tls&type=ws&sni=${SNI}&path=%2F#@MeyRay"
+echo ""
 echo "========================================"
 echo ""
 
